@@ -66,7 +66,7 @@ The first is the amount of storage space required by the algorithm; The second i
         }
 
     }
-    ![Exploration Q1](images/q1.png)
+![Exploration Q1](images/q1.png)
 
 
 
