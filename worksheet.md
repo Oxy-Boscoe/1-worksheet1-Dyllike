@@ -40,7 +40,6 @@ The first is the amount of storage space required by the algorithm; The second i
 ## Exploration
 1. Draw the stack and heap at the indicated place in the code. You can use [Java Tutor](http://pythontutor.com/java.html) to check your answer. Upload your drawing to your github repo and put a link in your markdown worksheet file so the drawing displays here.
 
-![Exploration Q1](images/q1.png)
 
     ```java
     public class Worksheet {
@@ -67,6 +66,7 @@ The first is the amount of storage space required by the algorithm; The second i
         }
 
     }
+    ![Exploration Q1](images/q1.png)
 
 
 
