@@ -147,6 +147,7 @@ The first is the amount of storage space required by the algorithm; The second i
             // DRAW MEMORY HERE
         }
     }
+![Exploration Q4](images/q4.png)
 
 
 
