@@ -117,7 +117,7 @@ The first is the amount of storage space required by the algorithm; The second i
         }
 
     }
-```
+
 Line 33
 
 3. Arrays are also reference variables. In the code below, we create an array of three elements, then set the 0th element to 37 and the 1st element to 42. Using [Java Tutor](http://pythontutor.com/java.html) to check your answer, draw out memory at the indicated place in the code. Make sure you select "render all objects on the heap" and "draw pointers as arrows". Do the same for this drawing, upload image and link in your worksheet.
@@ -131,7 +131,7 @@ Line 33
             // DRAW MEMORY HERE
         }
     }
-```
+
 
 4. Draw out memory at the indicated place in the code. Upload your drawing to your github branch. Explain why that is the result.
 
@@ -143,7 +143,7 @@ Line 33
             // DRAW MEMORY HERE
         }
     }
-```
+
 
 
 5. Consider the following two (equivalent) diagrams of memory below. Change the code marked `FIXME` so that memory will be as depicted at the indicated place in the code.
@@ -173,9 +173,9 @@ Line 33
         }
 
     }
-   ```
 
-elements[0] = new Element("Hydrogen");
+
+        elements[0] = new Element("Hydrogen");
         elements[1] = new Element("Helium");
         elements[2] = new Element("Lithium");
 
