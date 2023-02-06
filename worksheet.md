@@ -151,7 +151,7 @@ The first is the amount of storage space required by the algorithm; The second i
 ![Exploration Q5](images/exploration-q5-tutor.png)
 
 
-    ![Exploration Q5](images/exploration-q5.png)
+![Exploration Q5](images/exploration-q5.png)
 
     ```java
     public class Worksheet {
