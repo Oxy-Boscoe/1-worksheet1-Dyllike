@@ -118,7 +118,7 @@ The first is the amount of storage space required by the algorithm; The second i
 
     }
 
-Line 33
+    Line 33
 
 3. Arrays are also reference variables. In the code below, we create an array of three elements, then set the 0th element to 37 and the 1st element to 42. Using [Java Tutor](http://pythontutor.com/java.html) to check your answer, draw out memory at the indicated place in the code. Make sure you select "render all objects on the heap" and "draw pointers as arrows". Do the same for this drawing, upload image and link in your worksheet.
 
