@@ -134,6 +134,7 @@ The first is the amount of storage space required by the algorithm; The second i
             // DRAW MEMORY HERE
         }
     }
+![Exploration Q3](images/q3.png)
 
 
 4. Draw out memory at the indicated place in the code. Upload your drawing to your github branch. Explain why that is the result.
