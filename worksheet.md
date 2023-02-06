@@ -46,6 +46,7 @@ The first is the amount of storage space required by the algorithm; The second i
         public static int twice(int n) {
             int result = 2 * n;
             // DRAW MEMORY HERE
+            ![Exploration Q1](images/q1.png)
             return result;
         }
 
